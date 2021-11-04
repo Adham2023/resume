@@ -35,7 +35,7 @@ Link web-app (Not Pulbic application) : [ASKUGYUR](https://askugyur.hududgaz.uz)
 
 # Side projects
 
-- [Muallimi-soniy](https://google.com), This is mobile application. I created it using native-script-vue cross-mobile framework.
+- [Muallimi-soniy](https://appadvice.com/game/app/muallimi-soniy/1521714189), This is mobile application. I created it using native-script-vue cross-mobile framework.
 - [Alfam](https://alfam.netlify.app), This is the proejct for a construction and build related shop, client was intereseted in seeing his daily profit, workers participation on sale, and storing his all available items data to a database and getting verious reports about shop activity.
 - Also created a web app client for Telegram-API, now under development
   - achieved: Authenticate using phone number or QR scanning, sending and receive message, read status check...
