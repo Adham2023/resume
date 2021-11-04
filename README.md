@@ -33,7 +33,7 @@ Link web-app (Not Pulbic application) : [ASKUGYUR](https://askugyur.hududgaz.uz)
 - We started develping large scale project with 4 team members, I was only front-end developer, and I created this web app from scratch, I worked 6-7 month on this project.
 - I also created verious API, and API consumer clients services for getting daily usage of gas and daily payment from abonents and successfully connected and stored data to SQL-server database. 
 
-**Side projects**
+# Side projects
 
 - [Muallimi-soniy](https://google.com), This is mobile application. I created it using native-script-vue cross-mobile framework.
 - [Alfam](https://alfam.netlify.app), This is the proejct for a construction and build related shop, client was intereseted in seeing his daily profit, workers participation on sale, and storing his all available items data to a database and getting verious reports about shop activity.
