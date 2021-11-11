@@ -27,7 +27,7 @@ I also have experience working with remote teams, and with various internal/exte
 - Started building modern look of available system and functionality (using Vue.js, Node.js, Java, I was Front-end developer position, team size was only 3)
 
 
-**Public-service LLC** - Tashkent | Frontend developer, API developer | May 2020 - June 2021 | 
+**Public-service LLC** - Tashkent | Frontend developer, API developer | May 2020 - August 2021 | 
 Link web-app (Not Pulbic application) : [ASKUGYUR](https://askugyur.hududgaz.uz)
 
 - We started develping large scale project with 4 team members, I was only front-end developer, and I created this web app from scratch, I worked 6-7 month on this project.
