@@ -8,7 +8,7 @@ Front-end Developer with experience working on projects involving JavaScript, Vu
 I also have experience working with remote teams, and with various internal/external stakeholders.
 
 # Skills
-- **Technology/framework**: Node.js, Nativescript-Vue
+- **Mobile-dev/framework**: Nativescript-vue, Flutter 
 - **Databse**: MongoDB, SQL-server
 - **Language** : Javascript(ES6), Typescript, C++, python
 - **Web development**: HTML, CSS , Sass , VueJS, PWA, Vuex, Vue – Router, JSON, Apex-charts
