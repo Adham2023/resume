@@ -9,6 +9,7 @@ I also have experience working with remote teams, and with various internal/exte
 
 # Skills
 - **Mobile-dev/framework**: Nativescript-vue, Flutter 
+- **Backend/framework**: Node.js, Express 
 - **Databse**: MongoDB, SQL-server
 - **Language** : Javascript(ES6), Typescript, C++, python
 - **Web development**: HTML, CSS , Sass , VueJS, PWA, Vuex, Vue – Router, JSON, Apex-charts
