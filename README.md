@@ -12,11 +12,17 @@ Full-stack Developer with experience working on projects involving JavaScript, V
 - **Backend/framework**: Node.js, Express
 - **Databse**: MongoDB, SQL-server
 - **Language** : Javascript(ES6), Typescript, Dart
-- **Web development**: HTML, CSS , Sass , VueJS, PWA, Vuex, Vue – Router, JSON, Apex-charts
+- **Web development**: HTML, CSS , Sass , VueJS 2-3, Nuxt, PWA, Vuex, Vue–Router, JSON, Apex-charts
 - **UX/UI** : Adobe XD beginner
 - **CSS frameworks** : Element-UI, Bootstrap, UnoCSS, TailwindCSS
 - **Additional** : Experience with collaborative development tools (Git , GitHub , Gitlab) , Webpack , Postman , Swagger , Yarn & NPM packages Slack, pm2, Vite2
 - **OS** : MacOS, Windows, 7 Ubuntu 16.04, 17.01.
+
+# Programming
+
+4 Year programming experience
+
+3 year working experience
 
 # Experience
 
@@ -40,7 +46,7 @@ Link web-app (Not Pulbic application) : [ASKUGYUR](https://askugyur.hududgaz.uz)
 - [Alfam](), This is the proejct for a construction and build related shop, client was intereseted in seeing his daily profit, workers participation on sale, and storing his all available items data to a database and getting verious reports about shop activity.
 - Also created a web app client for Telegram-API, now under development
   - achieved: Authenticate using phone number or QR scanning, sending and receive message, read status check...
-- **Macbro - Installments CRM**: I developed it from scratch everything. From DB Schema design to UI, Completed the project within almost 2 weeks. It has functionalities like: Sending SMS to customers, Role/Permission based authorization, Export to excel.
+- **Macbro - Installments CRM**: I developed it from scratch. From DB Schema design to UI, Completed the project within almost 2 weeks. It has functionalities like: Sending SMS to customers, Role/Permission based authorization, Export to excel.
   - used techs
     - MongDB
     - NodeJS
