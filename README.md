@@ -61,6 +61,6 @@ Link web-app (Not Pulbic application) : [ASKUGYUR](https://askugyur.hududgaz.uz)
 
 # LANGUAGES
 
-- Uzbek - Fluent
+- Uzbek - Native
 - Russian - Intermediate
 - English - Intermediate
