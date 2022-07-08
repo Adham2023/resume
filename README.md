@@ -12,7 +12,7 @@ Full-stack Developer with experience working on projects involving JavaScript, V
 - **Backend/framework**: Node.js, Express
 - **Databse**: MongoDB, SQL-server
 - **Language** : Javascript(ES6), Typescript, Dart
-- **Web development**: HTML, CSS , Sass , VueJS 2-3, Nuxt, PWA, Vuex, Vue–Router, JSON, Apex-charts
+- **Web development**: HTML, CSS , Sass , VueJS 2-3, Nuxt3, PWA, Vuex, Vue–Router, JSON, Apex-charts
 - **UX/UI** : Adobe XD beginner
 - **CSS frameworks** : Element-UI, Bootstrap, UnoCSS, TailwindCSS
 - **Additional** : Experience with collaborative development tools (Git , GitHub , Gitlab) , Webpack , Postman , Swagger , Yarn & NPM packages Slack, pm2, Vite2
@@ -20,9 +20,9 @@ Full-stack Developer with experience working on projects involving JavaScript, V
 
 # Programming
 
-4 Year programming experience
+5 Year programming experience
 
-3 year working experience
+4 year working experience
 
 # Experience
 
@@ -54,7 +54,6 @@ Link web-app (Not Pulbic application) : [ASKUGYUR](https://askugyur.hududgaz.uz)
     - Element-UI
     - Vuejs-2
   - Some screenshots
-    ![screen1](./assets/1.png)
     ![screen2](./assets/2.png)
     ![screen2](./assets/3.png)
     ![screen2](./assets/4.png)
