@@ -1,17 +1,19 @@
-<h1 align="center">Hi, I'm John Doe 👋</h1>
+<h1 align="center">Hi, I'm Adham Muhammadjonov 👋</h1>
 
 <p align="center">
-  <a href="mailto:john.doe@email.com">john.doe@email.com</a> •
-  <a href="https://yourwebsite.com" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+  <a href="mailto:john.doe@email.com">adham.muhammadjonov1923@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/adham-muhammadjonov/" target="_blank">LinkedIn</a> •
+  <a href="https://t.me/adham0001" target="_blank">Telegram</a> •
+  <a href="https://github.com/Adham2023" target="_blank">GitHub</a>
 </p>
 
 ---
 
 ## 💼 Summary
 
-Passionate and results-driven Full Stack Developer with 5+ years of experience in building high-quality web applications. Specialized in **JavaScript**, **TypeScript**, **Vue.js**, and **Node.js**, with a strong background in design systems, performance optimization, and scalable backend architectures. I thrive in dynamic teams and love solving real-world problems through clean code and thoughtful UX.
+I'm a full-stack developer with a strong foundation in **Vue.js**, **Node.js**, and **MongoDB**, passionate about building robust web and mobile applications. I began my journey as a frontend developer and quickly expanded into backend development, infrastructure setup, and DevOps. Over the years, I've delivered end-to-end solutions — from CI/CD pipelines and remote server management to self-hosted map systems using **OpenStreetMap**, and cross-platform mobile apps with **React Native** and **SwiftUI**.
+
+One of my most challenging and rewarding projects was a 3D dental treatment visualization system built with **Nuxt3** and **Three.js**, integrating **Google Cloud Storage** for dynamic 3D model loading. The platform consisted of a visualization frontend, admin dashboard, and a REST API backend. I also led the development of a companion treatment management system for the same client, showcasing my ability to manage complex, multi-component architectures.
 
 ---
 
