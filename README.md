@@ -28,31 +28,46 @@ One of my most challenging and rewarding projects was a 3D dental treatment visu
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Nuxt3](https://img.shields.io/badge/-Nuxt3-00DC82?logo=nuxtdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
 ---
 
 ## 🧩 Projects
 
-### 🎨 AbstractAIWallpaper – AI-Generated Abstract Wallpapers
-> A mobile app that lets users generate abstract wallpapers using AI and Metal shaders, with preview and history features.
+### 🎨 Alfam - Tile sellers admin/controlling app
+> It was project with very difficult clients, but at the end I managed to compelete the project. Main components were that creating types of the tiles, saving them to warehouse with batches and sales structure was very complex, there customer which are actaully another sellers, debts control, and another thing is that sales might be changed according to customer want might replace their tile to another tile but based on some specific sale and system had to calculate the payment's difference whethere they have to pay back or ask additional payment. 
 
-- 🛠 Built with `Swift`, `Metal`, `OpenAI API`
-- 📱 Supports iPhone, iPad, Mac
-- 💾 Local storage & history
-- 🔥 Used by 10k+ users in first month
-
-![Screenshot](./images/abstractai-preview.png)
-
-[🔗 GitHub](https://github.com/yourusername/abstractaiwallpaper) • [📱 App Store](https://apps.apple.com/app/id1234567890)
+- 🛠 Built with `Vue3`, `Node.js`, `MongoDB`
+- 📱 Supports Web/Desktop
+- 👀 Private app
 
 ---
 
-### 🏥 Medical Chat Assistant – Real-Time Messaging System
-> Internal messaging system for doctors and staff with real-time chat, Firebase integration, and notification support.
+### 🏥 Clear-Smile 3D plan visualization – 3D scene teeth treatment plans
+> This app was real challange for me because it was mostly about 3D renderings. I did not created any 3D/webgl apps before from scratch. I was askend many diffuclt features like:
+>  Rulers - to measure the distance between two points placed at 3d model,
+> Grid-Scale overlay - which opeque overlay with vertically and horizontally crossed lines which in between equally spaced and each line has specific measured labels and these measurement is calculated based on Camera Type and distance with special variables.
+>  Occlusogram - is the heat map which represents penetration and distance with [-1, 1] mm threshold if penetrates marks with red if in distance it is blue and as a result we got the heatmaps.
+> Loading and adding skull parts of the patient head to the teeths scene.
+> Slider to show each change steps as animation
+- ⚙️ Tech: `Nuxt3`, `Node.js`, `Google Bucket`, `MongoDB`
+- 🔒 For now there is not login but links are shared securely.
 
-- ⚙️ Tech: `Nuxt3`, `Node.js`, `Firebase`, `Socket.IO`
+![Screenshot](./images/medicalchat-preview.png)
+
+[🔗 Repository](https://github.com/yourusername/medicalchat)
+
+---
+
+### 🏥 Clear-Smile 3D plan visualization Admin web app – to create plan and loading the 3d models.
+> Creating, Listing, Editing, Deleting the Plan
+> There are other metadata info to load into the plan other than 3d models, which can be printed and shown as table in the 3D visualizer. 
+- ⚙️ Tech: `Vue`, `Node.js`, `Google Bucket`, `MongoDB`, `Element-Plus`
 - 🔒 Secure login + user roles
-- 🔔 Real-time alerts via Cloud Messaging
 
 ![Screenshot](./images/medicalchat-preview.png)
 
