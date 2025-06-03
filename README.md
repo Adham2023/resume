@@ -51,7 +51,7 @@ One of my most challenging and rewarding projects was a 3D dental treatment visu
 > This app was real challange for me because it was mostly about 3D renderings. I did not created any 3D/webgl apps before from scratch. I was askend many diffuclt features like:
 >  Rulers - to measure the distance between two points placed at 3d model,
 > Grid-Scale overlay - which opeque overlay with vertically and horizontally crossed lines which in between equally spaced and each line has specific measured labels and these measurement is calculated based on Camera Type and distance with special variables.
->  Occlusogram - is the heat map which represents penetration and distance with [-1, 1] mm threshold if penetrates marks with red if in distance it is blue and as a result we got the heatmaps.
+>  Occlusogram - is the heat map which represents penetration and distance with [-1, 1] mm threshold if penetrates marks with red if in distance it is blue and as a result we got the heatmaps. For this to work 
 > Loading and adding skull parts of the patient head to the teeths scene.
 > Slider to show each change steps as animation
 - ⚙️ Tech: `Nuxt3`, `Node.js`, `Google Bucket`, `MongoDB`
@@ -75,47 +75,48 @@ One of my most challenging and rewarding projects was a 3D dental treatment visu
 
 ---
 
+### And other multiple small mid range Projects
+
 ## 📈 Work Experience
 
 ### 🔹 Senior Full Stack Developer  
-**XYZ Tech Inc.** · Jan 2021 – Present  
-_Remote · Full-time_
+**Beelab.** · Jan 2022 - 2023   
+Full-time_
+- I created back office for an e-commerce at Beeline/Beelab. Started from scratch developed users system, products catalogs, categories etc. Did important integrations with OFD and Billz to send receipts and to sync merchants databases real-time accordingly. Also worked as part e-commerce website team which is created using Nuxt 3 and contributed to that part as well.
 
-- Led development of a SaaS dashboard used by over 100 enterprise clients.
-- Refactored legacy codebase to Vue 3 + Composition API, improving performance by 40%.
-- Integrated Stripe for billing, Firebase for auth, and WebSockets for real-time data updates.
+## UzTransgas | Tashkent | Front-end, API Developer | June 2019 - May 2020
 
-### 🔹 Frontend Developer  
-**WebNova Studio** · Jul 2018 – Dec 2020  
-_Onsite · Full-time_
+Modification company's website
+Connecting web-services like payment systems, tax system etc. with company's system.
+Querying verious reports (using node.js)
+Started building modern look of available system and functionality (using Vue.js, Node.js, Java, I was Front-end developer position, team size was only 3)
 
-- Delivered 30+ marketing websites and SPAs for clients in e-commerce and fintech.
-- Built and maintained internal UI component libraries in Vue 2.
-- Improved Lighthouse scores from 60 to 95+ on all major projects.
+
+## Public-service LLC - Tashkent | Frontend developer, API developer | May 2020 - August 2021 | Link web-app (Not Pulbic application) : ASKUGYUR
+
+We started develping large scale project with 4 team members, I was only front-end developer, and I created this web app from scratch, I worked 6-7 month on this project.
+I also created verious API, and API consumer clients services for getting daily usage of gas and daily payment from abonents and successfully connected and stored data to SQL-server database.
+## Modeme - team - Fullstack | January 2022 - July 2022
+- Here I asked to help to make full stack app to production, that's the reason of my short working time.
 
 ---
+
 
 ## 🎓 Education
 
 **B.Sc. in Computer Science**  
-Tech University, 2014 – 2018
+Inha University, 2016 – 2019
 
 ---
 
-## 🧠 Certifications
 
-- 🥇 AWS Certified Cloud Practitioner – 2023
-- 🥈 Vue Mastery Certificate – 2022
-- 🥉 JavaScript Algorithms and Data Structures – freeCodeCamp
-
----
 
 ## 📫 Contact Me
 
-- 📧 Email: [john.doe@email.com](mailto:john.doe@email.com)
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: [adham.muhammadjonov1923@gmail.com](mailto:adham.muhammadjonov1923@gmail.com)
+- 🌐 Website: [https://adhamsdiscovery.com]([https://yourwebsite.com](https://adhamsdiscovery.com))
 - 🧾 Resume PDF: [Download](./resume.pdf)
 
 ---
 
-<sub>Last updated on: June 2, 2025</sub>
+<sub>Last updated on: June 3, 2025</sub>
