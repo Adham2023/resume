@@ -57,7 +57,7 @@ One of my most challenging and rewarding projects was a 3D dental treatment visu
 - ⚙️ Tech: `Nuxt3`, `Node.js`, `Google Bucket`, `MongoDB`
 - 🔒 For now there is not login but links are shared securely.
 
-![Screenshot](./images/medicalchat-preview.png)
+![Screenshot](./clear-smile-doctors-app.jpeg)
 
 [🔗 Repository](https://github.com/yourusername/medicalchat)
 
@@ -69,8 +69,8 @@ One of my most challenging and rewarding projects was a 3D dental treatment visu
 - ⚙️ Tech: `Vue`, `Node.js`, `Google Bucket`, `MongoDB`, `Element-Plus`
 - 🔒 Secure login + user roles
 
-![Screenshot](./images/medicalchat-preview.png)
-
+![Screenshot](./Clear%20Smile%20-%20Viewer.jpeg)
+![Screenshot](./Clear%20Smile%20-%20Viewer%20·%2012.47am%20·%2006-04.jpeg)
 [🔗 Repository](https://github.com/yourusername/medicalchat)
 
 ---
